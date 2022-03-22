@@ -27,7 +27,7 @@ By analysing the JSON files, I could observe that the data had little complexity
     - time (dimensional)
     - songs (dimensional)
 
-![ERD Shema](ERD Schema.png)
+<img src="ERD Schema.png" alt="ERD Schema" width="800"/>
 
 
 ## ETL Pipeline
